@@ -51,5 +51,6 @@ If you’d like to add interactive visualizations, you can explore **Plotly** or
 - Add an **Installation** section for others to replicate your work.  
 - Include example **images** of your visualizations directly in the README to make it visually appealing. You can use:
    ```markdown
-   ![Salary Trends by Job Title](path/to/your/image.png)
+   ![Salary Trends by Job Title]![salary_ranges_by_Job_Title](https://github.com/user-attachments/assets/878b9510-1207-47df-b218-6654ec240cad)
+
    ```
