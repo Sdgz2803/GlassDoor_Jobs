@@ -42,15 +42,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### **Next Steps**
-If you’d like to add interactive visualizations, you can explore **Plotly** or **Dash** for future iterations of this project.
-
----
-
 ### Tips for Improvement:
-- Add an **Installation** section for others to replicate your work.  
-- Include example **images** of your visualizations directly in the README to make it visually appealing. You can use:
-   ```markdown
+
    ![salary_ranges_by_Job_Title](https://github.com/user-attachments/assets/878b9510-1207-47df-b218-6654ec240cad)
 
-   ```
