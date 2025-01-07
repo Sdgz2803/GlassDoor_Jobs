@@ -42,7 +42,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### Tips for Improvement:
 
-   ![salary_ranges_by_Job_Title](https://github.com/user-attachments/assets/878b9510-1207-47df-b218-6654ec240cad)
 
